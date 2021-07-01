@@ -1,0 +1,2 @@
+# SmartWallet
+Personal finances management
